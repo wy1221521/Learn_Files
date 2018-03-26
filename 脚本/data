@@ -1,0 +1,15 @@
+Host: api.zwjk.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Origin: https://open.zwjk.com
+noticeStr: ybbjb8bewgmk7qfr
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; H60-L01 Build/HDH60-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36  termtype/rubikui
+Accept: application/json, text/javascript, */*; q=0.01
+timestamp: 1516953030216
+x-wap-profile: http://wap1.huawei.com/uaprof/HUAWEI_H60_L01_UAProfile.xml
+sign: 1bd3b4116e184d6619789f4f23129d97
+Referer: https://open.zwjk.com/appointment/zjyyAAA?execution=e2s1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN,en-US;q=0.8
+X-Requested-With: cn.ucmed.beidakouqiangyiyuan.patient
